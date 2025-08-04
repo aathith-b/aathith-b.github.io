@@ -189,7 +189,7 @@ p, li {
   }
 
   .card-container img {
-    width: 200px;
+    width: 150px;
     height: auto;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -238,4 +238,5 @@ p, li {
     display: none;
   }
 }
+
 
